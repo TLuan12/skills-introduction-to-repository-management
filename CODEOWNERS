@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @TLuan12
+/src/backend/database.py      @TLuan12
+/src/backend/routers/auth.py  @TLuan12
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @TLuan12
